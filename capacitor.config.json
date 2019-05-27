@@ -1,0 +1,7 @@
+{
+  "appId": "com.app",
+  "appName": "firsapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

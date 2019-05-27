@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title>vue-app</title>
+    <style>
+      #loading{
+        height: 100%;
+        text-align: center;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 10000;
+        background: #000;
+        color: #fff;
+      }
+    </style>
+<!--    <script src="//cdn.bootcss.com/eruda/1.4.0/eruda.min.js"></script>-->
+<!--    <script>eruda.init();</script>-->
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but vue-app doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="loading">
+      <div style="padding-top: 30vh;font-size: 24px;text-align: center">
+         loading。。。
+      </div>
+    </div>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+<!--    <script type="text/javascript" src="cordova.js"></script>-->
+  </body>
+</html>

@@ -1,0 +1,49 @@
+{
+  "name": "newvue-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve -dev",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@capacitor/android": "^1.0.0-beta.24",
+    "@capacitor/cli": "^1.0.0-beta.24",
+    "@capacitor/core": "^1.0.0-beta.24",
+    "@types/lodash": "^4.14.124",
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "eslint-loader": "^2.1.2",
+    "lodash": "^4.17.11",
+    "mand-mobile": "^2.2.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-pxtorem": "^4.0.1",
+    "qs": "^6.7.0",
+    "ripple-vue": "^1.0.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.2",
+    "vue-cookie": "^1.1.4",
+    "vue-property-decorator": "^8.1.0",
+    "vue-router": "^3.0.3",
+    "vue-touch-ripple": "^3.0.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-plugin-typescript": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "@vue/eslint-config-prettier": "^4.0.1",
+    "@vue/eslint-config-typescript": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "typescript": "^3.4.3",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
