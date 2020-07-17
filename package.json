@@ -15,7 +15,7 @@
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
     "eslint-loader": "^2.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mand-mobile": "^2.2.1",
     "postcss-loader": "^3.0.0",
     "postcss-pxtorem": "^4.0.1",
