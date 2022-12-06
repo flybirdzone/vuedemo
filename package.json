@@ -19,7 +19,7 @@
     "mand-mobile": "^2.2.1",
     "postcss-loader": "^3.0.0",
     "postcss-pxtorem": "^4.0.1",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "ripple-vue": "^1.0.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
